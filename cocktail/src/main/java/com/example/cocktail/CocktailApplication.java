@@ -1,13 +1,13 @@
-package com.example.CocktailFinder;
+package com.example.cocktail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CocktailFinderApplication {
+public class CocktailApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CocktailFinderApplication.class, args);
+		SpringApplication.run(CocktailApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.example.CocktailFinder;
+package com.example.cocktail;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CocktailFinderApplicationTests {
+class CocktailApplicationTests {
 
 	@Test
 	void contextLoads() {
