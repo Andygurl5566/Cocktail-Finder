@@ -12,7 +12,7 @@
 	<artifactId>cocktail</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cocktail</name>
-	<description>Cocktail finder demo app</description>
+	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
